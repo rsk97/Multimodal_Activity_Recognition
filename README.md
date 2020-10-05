@@ -38,9 +38,9 @@ We use the Charades Dataset, that contains data from two modalities - Action Vid
   
  	iv)  Run jupyter notebook locally (Refer https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
   
- 	v)   Run the file 'frameextractor.ipynb' using jupyter notebook first, which would generate the file 'img_ebd.npy'. This would process and extract the respective frames from the dataset and store it into the file 'img_ebd.npy'.
+ 	v)   Run the file 'image_embedding.ipynb' to generate the file 'img_ebd.npy'. This would process and extract the respective frames from the dataset and store it into the file 'img_ebd.npy'.
   
- 	vi)  Now Run the file 'CGM.ipynb' using jupyter notebook. This can be used to train the model ans test it as well.
+ 	vi)  Now run the file 'CGM.ipynb' to train/test the model.
 
 ##### References
     1) C. Chiu, J. Zhan, F. Zhan, &quot;Uncovering suspicious activity from partially paired and
